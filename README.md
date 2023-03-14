@@ -1,1 +1,1 @@
-;;;AirBnB console clone Project
+AirBnB console clone Project
